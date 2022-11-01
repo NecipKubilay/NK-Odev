@@ -1,0 +1,13 @@
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\bin\Debug\LoginUygulaması2.exe.config
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\bin\Debug\LoginUygulaması2.exe
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\bin\Debug\LoginUygulaması2.pdb
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.csproj.AssemblyReference.cache
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.csproj.SuggestedBindingRedirects.cache
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.Form1.resources
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.Properties.Resources.resources
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.csproj.GenerateResource.cache
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.csproj.CoreCompileInputs.cache
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.exe
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.pdb
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.Form2.resources
+C:\Users\necip\VisualStudioProjeler\LoginUygulaması2\LoginUygulaması2\obj\Debug\LoginUygulaması2.Form3.resources
